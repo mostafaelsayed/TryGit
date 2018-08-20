@@ -1,1 +1,4 @@
-any content ya beh
+<?php
+
+
+echo "string";
